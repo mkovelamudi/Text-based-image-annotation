@@ -1,0 +1,8 @@
+Django
+torch
+requests
+pillow
+pyDrive
+transformers
+boto3
+pytz
