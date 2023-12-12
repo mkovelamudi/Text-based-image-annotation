@@ -16,7 +16,7 @@ The output given is an API response that contains the S3 bucket URL where the im
 
 ## Pre-requisites
 ```
-git clone this repository
+git clone https://github.com/mkovelamudi/Text-based-image-annotation.git
 cd Text-based-image-annotation/owlVit
 pip install -r requirements.txt
 ```
