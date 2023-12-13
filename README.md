@@ -1,5 +1,5 @@
 # About the project
-This project helps in object detection and annotate images based on text i.e add bounding boxes to the detected object or part based on text data.
+This project helps in object detection and annotate images based on text i.e add bounding boxes to the detected object or part based on text data using OWL-ViT (short for Vision Transformer for Open-World Localization) developed by Google Inc.
 There is no front end for this project currently. This project is based on django application and runs as a server.
 
 ### Input
